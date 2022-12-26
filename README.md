@@ -23,6 +23,7 @@ LUL
 * [ ] Lag-free emote selector.
 * [ ] Emote favorites list.
 * [ ] Emote blacklist, because nobody wants to send `:LUL` when they meant `:LuL`
+* [ ] One-click emote copying (match the mood set by the crowd.)
 * [ ] Always available chat, even when your streamer is offline.
 * [ ] Sync your lovense toys with tips.
 * [ ] Emote upload.
@@ -37,7 +38,7 @@ LUL
 
 I think third party chat apps for Twitch have set the gold standard for chat experiences. I have the most experience with Chatty, and I absolutely love it. It's feature rich, performant, and just works. There are others out there like BTTV that continually raise the bar for both viewer and moderator quality of life.
 
-Recently, plenty of lewdtubers have started on Chaturbate, bringing with them their twitch audiences. The transition from Twitch to Chaturbate is a jarring experience. Emotes take twice as long to load because neither sane sizes nor optimization are enforced. Half the time GIF uploads don't animate at all because either the filesize or dimensions are too large, and there's zero feedback given to the uploader on what the actual problem is. This leads to users resorting to trial and error, creating emotes like `:PETTHEMODS1`, `:PETTHEMODS2, `:PETTHEMODS3`, `:PETTHEMODS4`, `:PETTHEMODS5`. Every PETTHEMODS emote before `:PETTHEMODS5` becomes immortal faulty litter, and new chatters wanting to show appreciate for hard working moderators go through similar trial-and-error, repeatedly selecting the inproperly animated emotes.
+Recently, plenty of lewdtubers have started on Chaturbate, drawing audiences from Twitch. The transition from Twitch to Chaturbate is a jarring experience. Emotes take twice as long to load because neither sane sizes nor optimization are enforced. Half the time GIF uploads don't animate at all because either the filesize or dimensions are too large, and there's zero feedback given to the uploader on what the actual problem is. This leads to users resorting to trial and error, creating emotes like `:PETTHEMODS1`, `:PETTHEMODS2`, `:PETTHEMODS3`, `:PETTHEMODS4`, `:PETTHEMODS5`. Every PETTHEMODS emote before `:PETTHEMODS5` becomes immortal faulty litter, and new chatters wanting to show appreciate for hard working moderators go through similar trial-and-error, repeatedly selecting the inproperly animated emotes.
 
 Simply put, Chaturbate feels outdated, and I want to fix that.
 
